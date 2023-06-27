@@ -15,5 +15,9 @@
     "@types/node": "^18",
     "nuxt": "^3.6.0",
     "typescript": "latest"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.0.18",
+    "pocketbase": "^0.15.2"
   }
 }
