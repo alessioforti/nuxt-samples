@@ -1,2 +1,1 @@
-# nuxt-samples
- 
+# Nuxt samples
