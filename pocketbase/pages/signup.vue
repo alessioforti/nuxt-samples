@@ -32,8 +32,8 @@ const signup = async () => {
 			confirmPassword.value = '',
 			loading.value = false
 		})
-	}).catch(e => console.log(e))
-
+	}).catch(e => console.log(e)) 
+	// Please handle errors
 }
 
 
