@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+	@apply py-3 px-4 bg-sky-700 text-white rounded-lg;
+}
