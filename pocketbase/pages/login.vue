@@ -84,7 +84,7 @@ const buttonDisabled = computed(() => {
 							</div>
 
 							<p class="mt-1 text-right text-xs text-gray-500">
-								<NuxtLink to="/password-recovery" class="leading-6 text-blue-600 hover:text-blue-500">Reset password</NuxtLink>
+								<NuxtLink to="/password-reset" class="leading-6 text-blue-600 hover:text-blue-500">Reset password</NuxtLink>
 							</p>
 						</div>
 					</div>
@@ -96,7 +96,6 @@ const buttonDisabled = computed(() => {
 
 				<p class="mt-10 text-center text-sm text-gray-500">
 					Don't have an account?
-					{{ ' ' }}
 					<NuxtLink to="/signup" class="font-semibold leading-6 text-blue-600 hover:text-blue-500">Sign Up</NuxtLink>
 				</p>
 			</div>
